@@ -28,3 +28,8 @@ HTML
 CSS
 JavaScript
 Bootstrap
+
+✈️ Acesse o site
+Hospedado no Netlify
+
+https://webgamematamosquito.netlify.app/
